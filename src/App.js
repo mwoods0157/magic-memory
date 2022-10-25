@@ -24,6 +24,8 @@ function App() {
     setTurns(0);
   }
 
+  console.log(cards, turns);
+
   return (
     <div className="App">
       <h1>Magic Match</h1>
