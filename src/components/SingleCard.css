@@ -17,7 +17,6 @@
     transform: rotateY(0deg);
     transition-delay: 0.2s;
 }
-
 /* back of card - cover */
 .card .back {
     transition: all ease-in 0.2s;
